@@ -1,5 +1,5 @@
 // Models/Customer.cs
-
+/*ควรต่อ DB ด้วย Models*/
 using System.ComponentModel.DataAnnotations;
 
 namespace DotnetWebApiWithEFCodeFirst.Models
